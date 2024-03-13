@@ -10,7 +10,6 @@ const StyledNav = styled.nav`
   width: 100vw;
   font-family: "Satisfy", cursive;
   margin-bottom: 2rem;
- 
 `;
 export default function Navbar() {
   return <StyledNav>{`Yassine's Wordbook`}</StyledNav>;
